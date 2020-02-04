@@ -1,0 +1,30 @@
+D:\MY\C#程序\winform程序\病毒\病毒\bin\Debug\病毒.exe
+D:\MY\C#程序\winform程序\病毒\病毒\bin\Debug\病毒.pdb
+D:\MY\C#程序\winform程序\病毒\病毒\obj\Debug\病毒.csprojResolveAssemblyReference.cache
+D:\MY\C#程序\winform程序\病毒\病毒\obj\Debug\病毒.Properties.Resources.resources
+D:\MY\C#程序\winform程序\病毒\病毒\obj\Debug\病毒.csproj.GenerateResource.Cache
+D:\MY\C#程序\winform程序\病毒\病毒\obj\Debug\病毒.exe
+D:\MY\C#程序\winform程序\病毒\病毒\obj\Debug\病毒.pdb
+D:\MY\C#程序\winform程序\病毒\病毒\obj\Debug\病毒.Form1.resources
+D:\MY\C#程序\winform程序\病毒\病毒\obj\Debug\病毒.Form2.resources
+D:\MY\C#程序\winform程序\病毒 - 副本\病毒\obj\Debug\病毒.exe
+D:\MY\C#程序\winform程序\病毒 - 副本\病毒\obj\Debug\病毒.pdb
+D:\MY\C#程序\winform程序\病毒 - 副本\病毒\bin\Debug\病毒.exe
+D:\MY\C#程序\winform程序\病毒 - 副本\病毒\bin\Debug\病毒.pdb
+D:\MY\C#程序\winform程序\病毒 - 副本\病毒\obj\Debug\病毒.csprojResolveAssemblyReference.cache
+D:\MY\C#程序\winform程序\病毒 - 副本\病毒\obj\Debug\病毒.Form1.resources
+D:\MY\C#程序\winform程序\病毒 - 副本\病毒\obj\Debug\病毒.Properties.Resources.resources
+D:\MY\C#程序\winform程序\病毒 - 副本\病毒\obj\Debug\病毒.csproj.GenerateResource.Cache
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\obj\Debug\病毒.exe
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\obj\Debug\病毒.pdb
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\bin\Debug\病毒.exe
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\bin\Debug\病毒.pdb
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\obj\Debug\病毒.csprojResolveAssemblyReference.cache
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\obj\Debug\病毒.Form1.resources
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\obj\Debug\病毒.Properties.Resources.resources
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\obj\Debug\病毒.csproj.GenerateResource.Cache
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\bin\Debug\Interop.WMPLib.dll
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\bin\Debug\AxInterop.WMPLib.dll
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\obj\Debug\Interop.WMPLib.dll
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\obj\Debug\AxInterop.WMPLib.dll
+D:\MY\C#程序\winform程序\病毒X及其汇总\病毒\病毒\obj\Debug\病毒.csproj.ResolveComReference.cache
